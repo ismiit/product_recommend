@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 similarity1.pkl filter=lfs diff=lfs merge=lfs -text
+data/flipkart_com-ecommerce_sample.csv filter=lfs diff=lfs merge=lfs -text
