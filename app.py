@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import re
-
+from PIL import Image
 similarity = pickle.load(open('similarity1.pkl','rb'))
 def poster_string(ind):
     text = data2['image'][ind]
@@ -38,21 +38,21 @@ if st.button('Recommend'):
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
         st.text(products[0])
-        st.image(posters[0])
+        st.image(Image.open(posters[0]))
         st.write(data2['discounted_price'][indx[0]])
     with col2:
         st.text(products[1])
-        st.image(posters[1])
+        st.image(Image.open(posters[1]))
         st.write(data2['discounted_price'][indx[1]])
     with col3:
         st.text(products[2])
-        st.image(posters[2])
+        st.image(Image.open(posters[2]))
         st.write(data2['discounted_price'][indx[2]])
     with col4:
         st.text(products[3])
-        st.image(posters[3])
+        st.image(Image.open(posters[3]))
         st.write(data2['discounted_price'][indx[3]])
     with col5:
         st.text(products[4])
-        st.image(posters[4])
+        st.image(Image.open(posters[4]))
         st.write(data2['discounted_price'][indx[4]])
