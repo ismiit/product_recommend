@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>∏ Sambit Chakraborty- Personal Site</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <center>
+    <img src="img/samb.png" alt="Sambit" width="200" height="200">
+    <h1> Sambit Chakraborty </h1>
+    <p><em>Data Scientist</em> at <a href="https://www.arcesium.com/"><strong>Arcesium</strong></a>.</p>
+    <p>I am a Data Scientist and Machine Learning enthusiast trying to understand the unpreictabilty of predictable machine learning algorithms.I can have coffe at anytime of the day. </p>
+    <hr>
+  </center>
+
+  <h3>EDUCATION</h3>
+
+  <table cellspacing="5px" border="1">
+    <thead>
+      <tr>
+        <th>Sl No.</th>
+        <th>Course </th>
+        <th>Institute</th>
+        <th>Year</th>
+        <th>Percentage</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Masters of Technology </td>
+        <td><strong>IIT(ISM) DHANBAD</strong></td>
+        <td><em>2020-Present </em></td>
+        <td><strong>10 GPA</strong></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Bachelors of Technology </td>
+        <td><strong>IEM KOLKATA </strong></td>
+        <td><em>2016-2020 </em></td>
+        <td><strong>8.37 GPA</strong></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Senior Secondary </td>
+        <td><strong>VIKAS VIDYANIKETAN</strong></td>
+        <td><em>2013-2015 </em></td>
+        <td><strong>94.40 %</strong></td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Secondary </td>
+        <td><strong>BEMS BELPAHAR</strong></td>
+        <td><em>2011-2013 </em></td>
+        <td><strong>94.20 %</strong></td>
+      </tr>
+    </tbody>
+
+  </table>
+
+  <hr>
+
+  <h3>WORK EXPERIENCE</h3>
+  <table cellspacing="5px" border="1">
+    <thead>
+      <tr>
+        <th>Sl No.</th>
+        <th>Company </th>
+        <th>Role</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Alien Brains </td>
+        <td>Machine Learning Engineer - Intern</td>
+        <td><em>2019-2020 </em></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Razorpay</td>
+        <td>Data Science - Intern</td>
+        <td><em>2020-2021 </em></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Arcesium India </td>
+        <td>Full Stack Data Scientist</td>
+        <td><em>2022-present </em></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+  <h3>SKILLS</h3>
+  <table cellspacing="5px" border="1">
+    <tr>
+      <td>
+        <table cellspacing="5px" border="1">
+          <tr>
+            <td>
+              <thead>
+                <tr>
+                  <th>Technical Skills</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                <tr>
+                  <td>HTML</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>CSS</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>JS</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>C++</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>SQL</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>PYTHON</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>MACHINE LEARNING</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>DEEP LEARNING</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>NLP</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+              </tbody>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table cellspacing="5px" border="1">
+          <tr>
+            <td>
+              <thead>
+                <tr>
+                  <th>Language Skills</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                <tr>
+                  <td>ENGLISH</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>HINDI</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>ODIA</td>
+                  <td>🌑🌑🌑🌓</td>
+                </tr>
+                <tr>
+                  <td>BENGALI</td>
+                  <td>🌑🌑🌑🌑🌓</td>
+                </tr>
+              </tbody>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <hr>
+  <a href="mylinks.html">
+    <h3>My Important Links</h3>
+  </a>
+  <br>
+  <hr>
+  <a href="contact.html">
+    <h3>Contact Details</h3>
+  </a>
+
+
+
+
+
+</body>
+
+</html>
